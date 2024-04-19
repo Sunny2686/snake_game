@@ -19,3 +19,4 @@ class Fodder(Turtle):
         rand_x = random.uniform(-(WIDTH / 2 - 10), (WIDTH / 2 - 10))
         rand_y = random.uniform(-(HEIGHT / 2 - 10), (HEIGHT / 2 - 10))
         self.goto(x=rand_x, y=rand_y)
+

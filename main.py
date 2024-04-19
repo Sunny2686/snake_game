@@ -67,3 +67,4 @@ while game_is_on:
             # game_is_on = False
             scoreboard.add_high_score()
 my_screen.exitonclick()
+
